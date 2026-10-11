@@ -116,7 +116,7 @@ git diff --check
 | 王语嫣 | [wyy21](https://github.com/wyy21) |
 | 杨纯淳 | [ychunch](https://github.com/ychunch) |
 | 邢杜鑫 | [DDDDDD0108](https://github.com/DDDDDD0108) |
-| 周爱凡 | — |
+| 周爱凡 | [TangerineSeas](https://github.com/TangerineSeas)|
 | 林玮辰 | [lwc-64](https://github.com/lwc-64) |
 | 李可玥 | [HecateLEE](https://github.com/HecateLEE) |
 | 王争帅 | — |
