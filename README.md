@@ -110,7 +110,7 @@ git diff --check
 | 华本源 | — |
 | 魏佳琪 | [Weijiaqi2503408055](https://github.com/Weijiaqi2503408055) |
 | 陆伊琳 | evelyn610520 |
-| 于溪语 | — |
+| 于溪语 | [Ruirui-Sketch](https://github.com/Ruirui-Sketch) | 
 | 赵奕佳 | [qtdmt0427-ship-it](https://github.com/qtdmt0427-ship-it) |
 | 王天岑 | [wangtiancen0927](https://github.com/wangtiancen0927) |
 | 王语嫣 | [wyy21](https://github.com/wyy21) |
