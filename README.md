@@ -76,7 +76,7 @@ git diff --check
 | 周振豪 | — |
 | 蔡可欣 | [0824-maker](https://github.com/0824-maker) |
 | 夏薇 | [tangshi1999](https://github.com/tangshi1999) |
-| 闫玉菲 | — |
+| 闫玉菲 | [beautifu1-girl2006] (https://github.com/beautifu1-girl2006)|
 | 罗琳 | — |
 | 肖昳霖 | [ShellFish3568](https://github.com/ShellFish3568) |
 | 江文欣 | [jjjj061118](https://github.com/jjjjj061118) |
